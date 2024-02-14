@@ -182,6 +182,7 @@ body{
   margin-top: 8%;  
 }
 
+
 .flex{
   display: flex;
 }
@@ -270,6 +271,7 @@ body{
   background-color: orangered;
   padding: 3% 3%;
   margin-top: 5%;
+  display: flex;
   width: 94%;
   
 }
@@ -279,4 +281,73 @@ body{
   width: 30%;
   font-family: Arial, Helvetica, sans-serif;
   font-weight: 700;
+  width: 94%;
+}
+.ifiok{
+  width: 60px;
+  border-radius: 50%;
+}
+
+.smart button{
+  margin-top: 80%;
+  
+}
+footer{
+  background-color: rgb(14, 11, 25);
+  height: 70%;
+  color: white;
+  display: flex;
+  height: 400px;
+}
+
+.other p{
+  display: inline-block;
+  font-size: 3rem;
+  margin-top: 40%;
+}
+.design li{
+  list-style-type: none;
+  font-size: 1.2rem;
+  line-height: 200%;
+}
+.other{
+  margin-left: 14%;
+}
+.design{
+  display: inline-block;
+  margin-left: 10%;
+  margin-top: 6%;
+}
+.logo{
+  display: inline-block;
+  margin-left: 10%;
+  margin-top: 6%;
+}
+.logo li{
+  list-style-type: none;
+  line-height: 250%;
+}
+.condition{
+  display: inline-block;
+  margin-left: 10%;
+  margin-top: 6%;
+  
+}
+.condition input{
+  border-radius: 20px; 
+  padding: 10px; 
+  border: 1px solid #ccc;
+  width: 200px; 
+  font-size: 16px; 
+}
+.condition p{
+  color: #848383;
+  margin-top: 45%;
+}
+.condition button{
+  font-size: 1.5rem;
+  border-radius: 30px;
+  padding: 10px;
+  width: 70px;
+  background-color: rgb(247, 110, 60);
 }
