@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wisssdorrmm
-- 👀 I’m interested in java script
-- 🌱 I’m currently learning html and css
+- 👀 I’m interested in react js
+- 🌱 I’m currently learning jvavscript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 07085596242
 
